@@ -1,5 +1,12 @@
-### emoji_codegen
+## emoji_codegen
 
+### What?
+
+Extracted from here: https://github.com/telegramdesktop/tdesktop/tree/dev/Telegram/SourceFiles/codegen/emoji
+
+### usage
+
+Install `qtbase5-dev`
 `cd src && make`
 `./emoji_codegen ../emoji_autocomplete.json`
 
